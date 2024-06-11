@@ -1,8 +1,20 @@
 # Proyecto-Final-DAW2
 
-Este proyecto se trata de una página web de Dentista, con todo incluido.
+## CLÍNICADENTALDENTSHINEY
 
-En la que se muestra todo, un blog de comentarios, una cesta de compra, un log in y un registro, con una base de datos personal y un diseño muy llamativo para atraer la atención de los clientes.
+El proyecto "DentShiney" se presenta como una plataforma digital integral y
+avanzada para servicios dentales. Esta plataforma no es simplemente un sitio web,
+sino un punto de convergencia entre pacientes y profesionales de la salud dental,
+diseñada para ofrecer una experiencia digital completa.
 
-Esta página web es muy sencilla, se usa Bootstrap como diseño, y PHP y phpMyAdmin para la parte de programación, porque eran lo unico que tenia para la creación del proyecto, ya que no tengo un ordenador o portatil personal. 
-Fue creado en un portatil prestado, donde las instaciones estaba limitadas, y lo unico que habia instalado o se podria instalar era el Visual Studio Code y XAMPP.
+"DentShiney" destaca por detallar exhaustivamente los servicios de la clínica,
+e incorpora funcionalidades esenciales como registro y autenticación de usuarios,
+una tienda en línea con sistema de carrito de compras, y un blog interactivo para la
+publicación de reseñas y comentarios.
+
+Con un enfoque riguroso en la usabilidad, seguridad y accesibilidad,
+"DentShiney" emplea una base de datos SQL personalizada utilizando PDO para
+garantizar la seguridad y eficiencia en la gestión de datos de los usuarios. La
+plataforma prioriza un diseño atractivo y funcional, utilizando tecnologías modernas
+como Bootstrap y “rd-navbar” para asegurar una experiencia de usuario excepcional
+y fluida.
